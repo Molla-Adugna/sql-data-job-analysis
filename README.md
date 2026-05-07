@@ -1,5 +1,5 @@
 
-# 📊 SQL for Data Analysis — Portfolio Project  
+# 📊 SQL For Data Job Analysis — Portfolio Project  
 ## 🧩 Overview
 This repository features my project from Luke Barousse’s SQL for Data Analysis course, where I explored real‑world job‑market data using advanced SQL techniques.
 The project demonstrates how structured queries uncover salary and skill trends — transforming raw data into actionable insights for recruiters and analysts alike.
