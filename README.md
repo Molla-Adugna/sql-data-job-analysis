@@ -1,5 +1,6 @@
 
-# 📊 SQL For Data Job Analysis — Portfolio Project  
+# 📊 SQL Data Job Analysis — Portfolio Project  
+![SQL Data Job Analysis](https://github.com/Molla-Adugna/sql-data-job-analysis/blob/main/SQL%20Data%20Job%20Analysis%20Thumbnail.jpg?raw=true)
 ## 🧩 Overview
 This repository features my project from Luke Barousse’s SQL for Data Analysis course, where I explored real‑world job‑market data using advanced SQL techniques.
 The project demonstrates how structured queries uncover salary and skill trends — transforming raw data into actionable insights for recruiters and analysts alike.
